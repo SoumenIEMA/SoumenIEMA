@@ -1,11 +1,11 @@
 <!----------------------------------- Banner ------------------------------------>
-[![MasterHead](https://raw.githubusercontent.com/SoumenIEMA/SoumenIEMA/main/Banner.png)](#)
+[![MasterHead](https://raw.githubusercontent.com/Soumen3/Soumen3/main/Banner.png)](#)
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
-  <img align="right" width="135" alt="DP" src="https://raw.githubusercontent.com/SoumenIEMA/SoumenIEMA/main/dp.png">
+  <img align="right" width="135" alt="DP" src="https://raw.githubusercontent.com/Soumen3/Soumen3/main/dp.png">
   <a href="https://github.com/SoumenIEMA?tab=followers">
-     <img align="right" src="https://img.shields.io/github/followers/SoumenIEMA?label=Followers&style=social" alt="followers-count">
+     <img align="right" src="https://img.shields.io/github/followers/Soumen3?label=Followers&style=social" alt="followers-count">
   </a>
   <h3>Hi, I'm Soumen Samanta</h3>
   <p>I am Full Stack Web Developer focused on backend. <br> 
@@ -18,7 +18,6 @@
 <h3>Languages</h3>
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
     <img src="https://img.shields.io/badge/C++-EA9B7D?style=for-the-badge&logo=Cplusplus&logoColor=blue" alt="C++" />
